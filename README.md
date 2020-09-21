@@ -1,4 +1,4 @@
-# BADS6001-LSTM-Predict-stock-price
+# LSTM-Predict-stock-price
 
 This is my first data science term project
 BADS6001 Intro to Data Science
